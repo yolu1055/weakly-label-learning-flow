@@ -2,7 +2,7 @@
 
 This is a Python implementation of the Weakly Supervised Label Learning Flow introducted in the paper 
 
-"[Weakly Supervised Label Learning Flows](https://github.com/yolu1055/weakly-supervised-label-learning-flow)". You Lu, Chidubem Arachie and Bert Huang. 2022.
+"[Weakly Supervised Label Learning Flows](https://arxiv.org/abs/2302.09649)". You Lu, Chidubem Arachie and Bert Huang. 2022.
 
 An example dataset, i.e., [Fashion-MNIST](https://github.com/zalandoresearch/fashion-mnist), is at `./datasets`, which can be used to run the code directly.
 
